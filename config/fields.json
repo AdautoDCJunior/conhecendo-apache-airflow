@@ -1,0 +1,17 @@
+{
+  "tweet": [
+    "author_id",
+    "conversation_id",
+    "created_at",
+    "id",
+    "in_reply_to_user_id",
+    "public_metrics",
+    "text"
+  ],
+  "user": [
+    "id",
+    "name",
+    "username",
+    "created_at"
+  ]
+}
