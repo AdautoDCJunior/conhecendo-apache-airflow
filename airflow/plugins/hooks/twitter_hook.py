@@ -1,4 +1,4 @@
-from airflow.providers.http.hooks.http import HttpHook
+from airflow.hooks.http_hook import HttpHook
 import requests
 import json
 
