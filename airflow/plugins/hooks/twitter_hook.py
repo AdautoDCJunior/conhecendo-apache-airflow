@@ -6,7 +6,6 @@ import json
 
 
 class TwitterHook(HttpHook):
-
   def __init__(self, query, conn_id=None, start_time=None, end_time=None):
     self.query = query
     self.conn_id = conn_id or 'twitter_default'
